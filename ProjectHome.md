@@ -1,0 +1,1 @@
+This project aims to provide a Groovy builder as a thin layer around the Java SVNKit library.
